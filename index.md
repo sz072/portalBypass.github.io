@@ -1,1 +1,0 @@
-<html><body><script>window.open='https://account.activedirectory.windowsazure.com/applications/redirecttoapplication.aspx?Operation=LinkedSignIn&applicationId=32eb7c39-5bad-408f-9b66-b783f3ed4d67&tenantId=a16eb8e2-803d-4f22-849c-f3f335a60a39'</script></body><html>
